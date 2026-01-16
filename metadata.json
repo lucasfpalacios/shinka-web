@@ -1,8 +1,0 @@
-{
-  "name": "Shinka",
-  "description": "A high-performance landing page for a digital evolution agency featuring AI solutions and full-stack development, built with React and Tailwind CSS.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
